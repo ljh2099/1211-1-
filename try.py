@@ -39,3 +39,6 @@ for r in range(case_number):   #目標式後半相加
         sum_expected_rev -= risk_coefficient*variance_covariance_matrix[r][s]*bid_or_not[r]*bid_or_not[s]
             
 print(sum_expected_rev)
+
+
+print('Hi')
